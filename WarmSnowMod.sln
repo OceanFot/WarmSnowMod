@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackMoveFixDlc2", "AttackMoveFixDlc2\AttackMoveFixDlc2.csproj", "{713B8623-6C61-43C3-B581-9990AAB5C556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomLearnSkillExt", "RandomLearnSkillExt\RandomLearnSkillExt.csproj", "{4728882A-938F-4F91-A0C9-FE3E81EC78C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713B8623-6C61-43C3-B581-9990AAB5C556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713B8623-6C61-43C3-B581-9990AAB5C556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713B8623-6C61-43C3-B581-9990AAB5C556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713B8623-6C61-43C3-B581-9990AAB5C556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4728882A-938F-4F91-A0C9-FE3E81EC78C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4728882A-938F-4F91-A0C9-FE3E81EC78C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4728882A-938F-4F91-A0C9-FE3E81EC78C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4728882A-938F-4F91-A0C9-FE3E81EC78C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E407417-FD3A-4CC2-B927-2F4BFBFBEA1A}
+	EndGlobalSection
+EndGlobal
